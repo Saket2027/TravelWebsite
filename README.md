@@ -12,7 +12,7 @@ Notes:
 
 <table style="width:70%">
   <tr>
-    <th>Level</th>
+    <th>Restaurant Name</th>
     <th>Walks</th> 
     <th>Extras</th>
     <th>Price</th>
