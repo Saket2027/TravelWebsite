@@ -18,7 +18,7 @@ Notes:
     <th>Price</th>
   </tr>
   <tr> 
-    <td><i>Level 1</i></td>
+    <td><i>Hemenway's Restaurant</i></td>
     <td>1</td>
     <td>Personalized social media page for your dog</td>
     <td>$11.99</td>
