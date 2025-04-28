@@ -43,36 +43,5 @@ Notes:
 
   <p><strong>Add-ons:</strong> Want an additional service?</p>
 
-<table style="width:70%">
-  <tr>
-    <th>Add-on</th>
-    <th>Price</th> 
-  </tr>
-  <tr>
-    <td>Traditional Dog Food (10 lbs)</td>
-    <td>$16.99</td>
-  </tr>
-    <tr>
-    <td>Organic Premium Dog Food (10 lbs)</td>
-    <td>$24.99</td>
-  </tr>
-    <tr>
-    <td>Dog Food Delivery Fee</td>
-    <td>$3.99</td>
-  </tr>
-    <tr>
-    <td>Dog Toy</td>
-    <td>$4.50</td>
-  </tr>
-    <tr>
-    <td>Solo Walk (Per Walk)</td>
-    <td>$9.99</td>
-  </tr>
-  <tr>
-    <td>Dog Medicine Delivery</td>
-    <td>$7.99</td>
-  </tr>
-</table>
-
 </body>
 </html>
