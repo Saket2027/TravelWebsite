@@ -26,11 +26,6 @@ Notes:
     <td>A small restaurant for travelers in Providence, RI who want to enjoy creative comfort food and divine cocktails.</td>
     <td>4.7 Stars</td>
   </tr>
-  <tr>
-    <td><i>Level 3</i></td>
-    <td>5</td>
-    <td>Free dog treats provided after walk</td>
-  </tr>
 </table>
 
 </body>
