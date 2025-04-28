@@ -13,15 +13,13 @@ Notes:
 <table style="width:70%">
   <tr>
     <th>Restaurant Name</th>
-    <th>Walks</th> 
-    <th>Extras</th>
+    <th>Information</th>
     <th>Price</th>
   </tr>
   <tr> 
     <td><i>Hemenway's Restaurant</i></td>
     <td>1</td>
     <td>Personalized social media page for your dog</td>
-    <td>$11.99</td>
   </tr>
   <tr>
     <td><i>Level 2</i></td>
