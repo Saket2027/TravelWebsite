@@ -25,23 +25,18 @@ Notes:
     <td><i>Level 2</i></td>
     <td>3</td>
     <td>Free food delivery</td>
-    <td>$34.99</td>
   </tr>
   <tr>
     <td><i>Level 3</i></td>
     <td>5</td>
     <td>Free dog treats provided after walk</td>
-    <td>$59.99</td>
   </tr>
   <tr>
     <td><i>Level 4</i></td>
     <td>7</td>
     <td>Free dog toy each week</td>
-    <td>$79.99</td>
   </tr>
 </table>
-
-  <p><strong>Add-ons:</strong> Want an additional service?</p>
 
 </body>
 </html>
