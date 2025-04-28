@@ -14,11 +14,11 @@ Notes:
   <tr>
     <th>Restaurant Name</th>
     <th>Information</th>
-    <th>Price</th>
+    <th>Rating</th>
   </tr>
   <tr> 
     <td><i>Hemenway's Restaurant</i></td>
-    <td>1</td>
+    <td>The destination of our fresh, top-of-catch seafood for local visitors of Newport, RI.</td>
     <td>Personalized social media page for your dog</td>
   </tr>
   <tr>
